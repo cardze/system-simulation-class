@@ -1,0 +1,36 @@
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.050000    1.000000      1.000000      0.052632        0.971200            2                9712
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.100000    1.000000      1.000000      0.111111        0.904900            2                9049
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.150000    1.000000      1.000000      0.176471        0.878400            5                8784
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.200000    1.000000      1.000000      0.250000        0.906100           11                9061
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.250000    1.000000      1.000000      0.333333        0.874900           14                8749
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.300000    1.000000      1.000000      0.428571        0.898200           18                8982
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.350000    1.000000      1.000000      0.538462        0.896600           25                8966
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.400000    1.000000      1.000000      0.666667        0.919800           33                9198
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.450000    1.000000      1.000000      0.818182        0.925500           41                9255
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.500000    1.000000      1.000000      1.000000        0.953400           51                9534
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.550000    1.000000      1.000000      1.222222        1.007000           60               10070
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.600000    1.000000      1.000000      1.500000        1.011800           72               10118
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.650000    1.000000      1.000000      1.857143        1.036200           80               10362
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.750000    1.000000      1.000000      3.000000        1.060300           87               10603
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.800000    1.000000      1.000000      4.000000        1.075800           97               10758
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.850000    1.000000      1.000000      5.666667        1.103600          108               11036
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.900000    1.000000      1.000000      9.000000        1.160800          117               11608
+lambda 1    lambda_2      lambda_3      theroy           sim_value         leaved_client  total
+0.950000    1.000000      1.000000      19.000000        1.123400          132               11234
